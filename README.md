@@ -1,2 +1,2 @@
 # TinyWebRetriever
-Retrieve Ritlab's TinyWeb server post data from web form standalone executable fro CGI
+Retrieve Ritlab's TinyWeb server post data from web form standalone executable for CGI
